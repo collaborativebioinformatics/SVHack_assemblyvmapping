@@ -14,7 +14,9 @@ Much of the current clinical dataset is still short-read based, and with this pr
 ......
 
 ## Methods :
+### Methods Overview :
 (Short intro)
+
 ### Alignment based SV calling :
 #### Step 1:
 #### Step 2:
@@ -32,4 +34,14 @@ Much of the current clinical dataset is still short-read based, and with this pr
 ## Workflow :
 
 ![Picture_4](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/54c0f7d9-9587-4bb5-9b01-203070746755)
+
+## Example Output :
+
+```
+## SV results:
+
+
+```
+
+## Results and Discussion :
 
