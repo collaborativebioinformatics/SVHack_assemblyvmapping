@@ -1,3 +1,34 @@
-## The workflow we will be adopting:
+## Contributors :
+1. Qian Zeng (University of ...)
+2. Ayan Malakar (University of ...)
+3. Qiyi Yu (University of ...)
+4. Colin Diesh (University of ...)
+5. Seung Jae Lee (University of ...)
+6. Carolina Jaramillo Oquendo (University of ...)
+7. Peiming Huang (University of ...)
+8. Sagayamary Sagayaradj ( BASF)
+
+## Introduction :
+The main aim of this project is to develop an application to evaluate SV calling using the latest available tools on a population scale short-read dataset.
+Much of the current clinical dataset is still short-read based, and with this project, we would like present an optimized SV calling solution for analyzing large-scale SR dataset.
+......
+
+## Methods :
+(Short intro)
+### Alignment based SV calling :
+#### Step 1:
+#### Step 2:
+#### Step 3:
+#### Step 4:
+#### Step 5:
+
+### Assembly based SV calling :
+#### Step 1:
+#### Step 2:
+#### Step 3:
+#### Step 4:
+#### Step 5:
+
+## Workflow :
 
 ![test_4](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/d9216779-2e84-4372-92f9-f86a76958502)
