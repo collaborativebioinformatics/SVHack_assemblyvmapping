@@ -5,7 +5,7 @@
 4. Colin Diesh (University of California, Berkeley)
 5. Seung Jae Lee (University of Southern California)
 6. Carolina Jaramillo Oquendo (University of Southampton, U.K.)
-7. Peiming Huang (Baylor College of Medicine)
+7. Peiming (Peter) Huang (Baylor College of Medicine)
 8. Sagayamary Sagayaradj (BASF)
 
 ## Introduction :
