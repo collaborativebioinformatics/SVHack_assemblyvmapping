@@ -1,12 +1,12 @@
 ## Contributors :
-1. Qian Zeng (University of ...)
-2. Ayan Malakar (University of ...)
-3. Qiyi Yu (University of ...)
+1. Qian Zeng (Labcorp)
+2. Ayan Malakar (Columbia University)
+3. Qiyi Yu (Carnegie Mellon University)
 4. Colin Diesh (University of California, Berkeley)
-5. Seung Jae Lee (University of ...)
-6. Carolina Jaramillo Oquendo (University of ...)
-7. Peiming Huang (University of ...)
-8. Sagayamary Sagayaradj ( BASF)
+5. Seung Jae Lee (University of Southern California)
+6. Carolina Jaramillo Oquendo (University of Southampton, U.K.)
+7. Peiming Huang (Baylor College of Medicine)
+8. Sagayamary Sagayaradj (BASF)
 
 ## Introduction :
 The main aim of this project is to develop an application to evaluate SV calling using the latest available tools on a population scale short-read dataset.
