@@ -33,7 +33,7 @@ Much of the current clinical dataset is still short-read based, and with this pr
 
 ## Workflow :
 
-![SV_hack_draft_1](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/0c687795-7359-4f40-9d62-53d1dd4c1a86)
+![SV_hack_draft_2](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/2a59dc8b-cbb4-4966-8b22-75d019483526)
 
 ## Example Output :
 
