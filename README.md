@@ -2,7 +2,7 @@
 1. Qian Zeng (University of ...)
 2. Ayan Malakar (University of ...)
 3. Qiyi Yu (University of ...)
-4. Colin Diesh (University of ...)
+4. Colin Diesh (University of California, Berkeley)
 5. Seung Jae Lee (University of ...)
 6. Carolina Jaramillo Oquendo (University of ...)
 7. Peiming Huang (University of ...)
