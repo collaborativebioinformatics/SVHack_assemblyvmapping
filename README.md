@@ -19,18 +19,10 @@ SV calling methods generally fall into two groups:  mapping-based and assembly-b
 Once the SV calls are available, the performance of the SV calling protocol can be evaluated by comparison with an independently developed high-confidence truth set.  For this purpose, we are using the GIAB HG002 (ASJ son) SV dataset as the truth.  The findings will help us to assess the pros and cons for each method and recommend an optimized SV calling protocol for NGS short reads.
 
 ### Alignment based SV calling :
-#### Step 1:
-#### Step 2:
-#### Step 3:
-#### Step 4:
-#### Step 5:
+We selected 2x250bp BAM files (80X coverage) from HG002 (Ashkenazim Trio Son, NA24385) as the input for mapping-based SV calling with Lumpy, Delly, Manta, Tardis, dysgu, cue and followed by Parliament (https://github.com/fritzsedlazeck/parliament2) and SURVIVOR (https://github.com/fritzsedlazeck/SURVIVOR).  The BAM files are converted to FASTQ files and used as input for assembly-based SV calling via SVABA, NucDiff and SVanalyzer, followed by SURVIVOR.  The individual SV calls and the consolidated SV calls are then compared with the HG002 SV truth dataset to assess the performance by Truvari.
 
 ### Assembly based SV calling :
-#### Step 1:
-#### Step 2:
-#### Step 3:
-#### Step 4:
-#### Step 5:
+
 
 ## Workflow :
 
