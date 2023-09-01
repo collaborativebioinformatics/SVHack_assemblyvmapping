@@ -1,4 +1,4 @@
-# Sv-Genie
+# SV-Genie
 #### Mapping-vs-Assembly Based SV Calling Evaluation
 
 ## Contributors :
