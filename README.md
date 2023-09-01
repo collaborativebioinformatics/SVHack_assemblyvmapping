@@ -1,4 +1,5 @@
-## Mapping-vs-Assembly Based SV Calling Evaluation
+# Sv-Genie
+#### Mapping-vs-Assembly Based SV Calling Evaluation
 
 ## Contributors :
 1. Qian Zeng (Labcorp)
