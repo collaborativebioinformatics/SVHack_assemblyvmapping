@@ -36,8 +36,21 @@ We selected 2x250bp BAM files (80X coverage) from HG002 (Ashkenazim Trio Son, NA
 
 ```
 ## Scripts implemented:
+## SV evaluation :
+path/truvari bench -b ../HG002_SVs_Tier1_v0.6.DEL.vcf.gz -c parliament2_HG002.merge.22/HG002.merge.22.survivor_sorted.DEL.vcf.gz -o HG002.merge.22.survivor_sorted.DEL.vcf.gz_vs_HG002_SVs_Tier1_v0.6_0_0_0.5_3000_3000 --passonly --includebed ../HG002_SVs_Tier1_v0.6.bed -p 0 --pctovl 0 --pctsize 0.5 --refdist 3000 -C 3000
 
+## Assembly based:
+svaba run -t HG002.hs37d5.2x250.bam -r all -p 80 -G /home/dnanexus/svaba/reference/GRCh37_hs37d5_1kGenomes/hs37d5.fa
 ```
+## Additional Analysis :
+This is a novel and generic computational test for evaluating errors and false positives from variant callers including SV callers.  Colin’s test uses the recently available T2T genomes as the reference to generate read alignment and identify artifacts as a performance metric for variant callers, complementing the output by Truvari.
+Specifically, we mapped GIAB HG002 reads back to the HG002 T2T phased genome assembly (both maternal and paternal haplotypes included) to assess how the "self alignment" would perform. We aligned the HG002 T2T phased genome assembly to the hg19 chr22, and also aligned the HG002 T2T maternal to the paternal genome assembly, so then we could inspect the NGS alignments at the matched locations, with the intent of finding the source of errors in the reference based SV calls.
+
+![Colin_WF](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/41931ccf-8714-4471-b5b1-1458a76615d5)
+
+In order to demonstrate some of the results of our analysis, we created a genome browser instance containing the alignments we produced. We created an automated script that prepared the alignments and the genome browser setup
+
+![Colin_1](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/b6a1e7d6-b843-4fc0-84b6-d2f899eba23f)
 
 ## Discussion :
 
