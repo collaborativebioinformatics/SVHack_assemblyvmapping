@@ -52,5 +52,8 @@ In order to demonstrate some of the results of our analysis, we created a genome
 
 ![Colin_1](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/b6a1e7d6-b843-4fc0-84b6-d2f899eba23f)
 
+![Colin_2](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/bd61fed4-bf86-4b8a-90b5-fbfb19353713)
+
+
 ## Discussion :
 
