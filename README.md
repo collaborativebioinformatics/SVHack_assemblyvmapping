@@ -33,7 +33,7 @@ We selected 2x250bp BAM files (80X coverage) from HG002 (Ashkenazim Trio Son, NA
 
 ## Results :
 
-![truvari_for_dysgu](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/50e8debe-0352-4464-873b-62fd82d267ce)
+![perform-6](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/a09a736a-1dd4-4c03-8b33-4596f898a7dd)
 
 ```
 ## Quick Start:
