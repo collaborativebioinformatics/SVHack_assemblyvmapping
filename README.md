@@ -6,10 +6,9 @@
 3. Colin Diesh (University of California, Berkeley)
 4. Peiming (Peter) Huang (Baylor College of Medicine)
 5. Seung Jae Lee (University of Southern California)
-6. Sagayamary Sagayaradj (![logo_1](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/8a91abc7-d580-4a0d-98ac-977b77f25869)
-BASF)
+6. Sagayamary Sagayaradj (BASF)
 
-
+![logo](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/2bab3b86-3584-4cc6-9caa-d43e8320c2dd)
 
 ## Introduction :
 The goal of this project is to evaluate the performance of SV calling tools for NGS short-read dataset. Much of the current clinical testing is still short-read based, and with this project, we want to find an optimized SV calling protocol for analyzing large-scale short-reads dataset.
