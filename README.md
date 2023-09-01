@@ -35,7 +35,7 @@ We selected 2x250bp BAM files (80X coverage) from HG002 (Ashkenazim Trio Son, NA
 ![truvari_for_dysgu](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/50e8debe-0352-4464-873b-62fd82d267ce)
 
 ```
-## Scripts implemented:
+## Quick Start:
 ## SV evaluation :
 path/truvari bench -b ../HG002_SVs_Tier1_v0.6.DEL.vcf.gz -c parliament2_HG002.merge.22/HG002.merge.22.survivor_sorted.DEL.vcf.gz -o HG002.merge.22.survivor_sorted.DEL.vcf.gz_vs_HG002_SVs_Tier1_v0.6_0_0_0.5_3000_3000 --passonly --includebed ../HG002_SVs_Tier1_v0.6.bed -p 0 --pctovl 0 --pctsize 0.5 --refdist 3000 -C 3000
 
