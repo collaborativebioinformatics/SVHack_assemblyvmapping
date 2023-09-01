@@ -55,6 +55,19 @@ In order to demonstrate some of the results of our analysis, we created a genome
 
 ![Colin_2](https://github.com/collaborativebioinformatics/SVHack_assemblyvmapping/assets/22775490/bd61fed4-bf86-4b8a-90b5-fbfb19353713)
 
+## SVXplorer Web App
+
+![](img/1.png)
+
+We also created a web based portal to browse SVs, with links to the JBrowse 2 genome browser to view evidence
+
+![](img/2.png)
+
+Screenshot showing a heterozygous deletion
+
+
+The repo for this web application is at https://github.com/cmdcolin/svxplorer  with live demo at https://cmdcolin.github.io/svxplorer
+
 
 ## Discussion :
 
